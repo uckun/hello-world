@@ -1,2 +1,2 @@
 # hello-world
-tutorial repo is now complete!
+tutorial repo was complete, but now I added more stuff to it.
